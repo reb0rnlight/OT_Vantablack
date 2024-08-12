@@ -1,2 +1,2 @@
-# OT_Vantablack-Mod-
+# OT_Vantablack
 Retextures the tiles in One Turret.
